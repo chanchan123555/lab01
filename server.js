@@ -2,7 +2,7 @@ http = require('http');
 
 var express = require('express');
 var app = express();
-var APIKEY = "";  // signup at api.openweathermap.org and obtain an API Key
+var APIKEY = "e264f2c41a65dc79359e137cee936a1c";  // signup at api.openweathermap.org and obtain an API Key
 
 var options = {
     host: 'api.openweathermap.org',
